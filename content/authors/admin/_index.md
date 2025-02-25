@@ -44,7 +44,9 @@ education:
     institution: University of Wisconsin Eau Claire
     date_start: 2022
     date_end: 2026
-
+    summary: |
+      
+      
       Courses included:
       - Biol 323 Genetics
       - Biol 443 Applied Bioinformatics II
