@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: RNA Sequencing of Schistosoma Mansoni
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Bioinformatics
+  - Data Science
+  - R
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Transcriptomic analysis of Schistosoma Mansoni uning R and Python.
 
 <!--more-->
