@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are some current and completed projects that I've completed here at UWEC.
       filters:
         folders:
           - project
