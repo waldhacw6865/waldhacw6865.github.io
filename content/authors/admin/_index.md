@@ -53,8 +53,8 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
     institution: University of Wisconsin Eau Claire
-    date_start: 2022-09
-    date_end: 2026-05
+    date_start: 2022-09-01
+    date_end: 2026-05-17
     summary: |
 
       Courses included:
