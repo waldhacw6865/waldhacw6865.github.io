@@ -45,7 +45,7 @@ interests:
   - Genetics
 
 education:
-  - area: Bioinformatics
+  - area: Bioinformatics Degree
     institution: University of Wisconsin Eau Claire
     date_start: 2022
     date_end: 2026
@@ -66,6 +66,16 @@ education:
       - Data Structures and Algorithems in Bioinformatics
       - Bioinformatics Junior Seminar
 
+  - area: High School Diploma
+    institution: Medford Area Senior High School
+    date_start: 2018-09-01
+    date_end: 2022-05-17
+    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+    institution: Medford Area Senior High School
+    date_start: 2018-09-01
+    date_end: 2022-05-17
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
