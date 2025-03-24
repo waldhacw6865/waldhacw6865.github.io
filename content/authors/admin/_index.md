@@ -58,10 +58,13 @@ education:
     summary: |
 
       Courses included:
-      - Calculus 2
-      - Organic Chemistry 1
+      - Calculus I & II
+      - Organic Chemistry I
       - Genetics
-      - Applied Bioinformatics 2
+      - Applied Bioinformatics I & II
+      - Discrete Mathamatics
+      - Data Structures and Algorithems in Bioinformatics
+      - Bioinformatics Junior Seminar
 
 #work:
 #  - position: Director of Cloud Infrastructure
