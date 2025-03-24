@@ -108,4 +108,4 @@ skills:
 
 ## About Me
 
-I am a student at the University of Wisconsin Eau Claire, I will be graduating with a bioinformatics degree in the spring of 2026. I have worked on projects that include RNA sequencing of the Schistosoma Mansoni. I am also interested in the genetics and coding.
+I am a student at the University of Wisconsin Eau Claire, I will be graduating with a bioinformatics degree in the spring of 2026. I have worked on projects that include RNA sequencing of the _Schistosoma mansoni_. I am also interested in the genetics and coding.
