@@ -1,7 +1,7 @@
 ---
 title: Research Poster
 date: 2025-02-25
-url: /workspaces/waldhacw6865.github.io/static/uploads/poster_template_bioinformatics.pdf
+url: uploads/poster_template_bioinformatics.pdf
 share: false
 tags:
   - Bioinformatics
