@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I here are some projects that I have done over my years here at UW-Eau Claire.
+        Here are some projects that I have done over my years here at UW-Eau Claire. Dealing with analyzing the transcriptomic differences between liver and intensinal _Schistoma mansoni_.
     design:
       columns: '1'
 #  - block: collection
