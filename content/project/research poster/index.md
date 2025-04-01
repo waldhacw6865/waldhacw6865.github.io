@@ -1,7 +1,7 @@
 ---
 title: Research Poster
 date: 2025-02-25
-url: uploads/poster_template_bioinformatics.pdf
+external_link: uploads/poster_template_bioinformatics.pdf
 share: false
 tags:
   - Bioinformatics
